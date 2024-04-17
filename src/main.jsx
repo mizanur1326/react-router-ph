@@ -9,12 +9,17 @@ import Contact from './pages/Contact';
 import Users from './pages/Users';
 import Photos from './components/Photos';
 import UserDetails from './components/UserDetails';
+import Home from './pages/Home';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
     children: [
+      {
+        path: "/",
+        element: <Home></Home>,
+      },
       {
         path: "/about",
         element: <About></About>,
