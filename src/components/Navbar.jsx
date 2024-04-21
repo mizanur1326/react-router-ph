@@ -7,6 +7,11 @@ export default function Navbar() {
         <li><Link to="/contact">Contact</Link></li>
         <li><Link to="/users">Users</Link></li>
         <li><Link to="/photos">Photos</Link></li>
+        <li><Link to="/posts">Posts</Link></li>
+        <li><Link to="/phones">Phones</Link></li>
+    </>
+    const cartLink = <>
+        <Link to="/cart">Cart</Link>
     </>
     return (
         <div>
@@ -28,7 +33,7 @@ export default function Navbar() {
                     </ul>
                 </div>
                 <div className="navbar-end px-20">
-                    <a className="btn">Button</a>
+                    {cartLink}
                 </div>
             </div>
         </div>

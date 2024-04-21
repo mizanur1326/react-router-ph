@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13",
+        "model": "13",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "camera": "Dual 12 MP",
+        "processorName": "A15 Bionic",
+        "price": "$799",
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "model": "S21",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Triple 12 MP",
+        "processorName": "Exynos 2100",
+        "price": "$799",
+        "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "model": "Pixel 6",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Dual 50 MP",
+        "processorName": "Google Tensor",
+        "price": "$699",
+        "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "model": "9 Pro",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "camera": "Quad 48 MP",
+        "processorName": "Snapdragon 888",
+        "price": "$969",
+        "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "model": "Mi 11",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Triple 108 MP",
+        "processorName": "Snapdragon 888",
+        "price": "$749",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi11-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 III",
+        "model": "Xperia 1 III",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "camera": "Quad 12 MP",
+        "processorName": "Snapdragon 888",
+        "price": "$1,299",
+        "image": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iii-02.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Huawei P50 Pro",
+        "model": "P50 Pro",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "camera": "Quad 50 MP",
+        "processorName": "Snapdragon 888",
+        "price": "$1,099",
+        "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-p50-pro-0.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Apple iPhone 12",
+        "model": "iPhone 12",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "camera": "Dual 12 MP",
+        "processorName": "A14 Bionic",
+        "price": "$799",
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-r1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Samsung Galaxy Note 20 Ultra",
+        "model": "Note 20 Ultra",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "camera": "Triple 108 MP",
+        "processorName": "Snapdragon 865+",
+        "price": "$1,199",
+        "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Google Pixel 5",
+        "model": "Pixel 5",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Dual 12.2 MP",
+        "processorName": "Snapdragon 765G",
+        "price": "$699",
+        "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5-5g-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "OnePlus 8T",
+        "model": "8T",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "camera": "Quad 48 MP",
+        "processorName": "Snapdragon 865",
+        "price": "$749",
+        "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-1.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Xiaomi Mi 10",
+        "model": "Mi 10",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Quad 108 MP",
+        "processorName": "Snapdragon 865",
+        "price": "$699",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-10-5g-1.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Sony Xperia 5 III",
+        "model": "Xperia 5 III",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "camera": "Triple 12 MP",
+        "processorName": "Snapdragon 888",
+        "price": "$1,099",
+        "image": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-5-iii-02.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Huawei Mate 40 Pro",
+        "model": "Mate 40 Pro",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "camera": "Triple 50 MP",
+        "processorName": "Kirin 9000",
+        "price": "$1,049",
+        "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-mate40-pro-1.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Apple iPhone SE (2020)",
+        "model": "iPhone SE (2020)",
+        "ram": "3 GB",
+        "rom": "64 GB",
+        "camera": "Single 12 MP",
+        "processorName": "A13 Bionic",
+        "price": "$399",
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2020-2.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Samsung Galaxy A52",
+        "model": "Galaxy A52",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "camera": "Quad 64 MP",
+        "processorName": "Snapdragon 720G",
+        "price": "$499",
+        "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a52-4g-10.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Google Pixel 4a",
+        "model": "Pixel 4a",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "camera": "Single 12.2 MP",
+        "processorName": "Snapdragon 730G",
+        "price": "$349",
+        "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4a-1.jpg"
+    },
+    {
+        "id": 18,
+        "name": "OnePlus Nord",
+        "model": "Nord",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "camera": "Quad 48 MP",
+        "processorName": "Snapdragon 765G",
+        "price": "$699",
+        "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "model": "Redmi Note 10 Pro",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "camera": "Quad 108 MP",
+        "processorName": "Snapdragon 732G",
+        "price": "$279",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg"
+    }
+]
